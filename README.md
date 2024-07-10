@@ -1,1 +1,8 @@
-It is object detection based on color project and it detects objects based on colors in live running camera.
+--- Used to detect objects based on color ---
+
+Python libraries to install:
+1. pip install imutils
+2. pip install opencv-python
+3. pip install opencv-contrib-python
+
+
